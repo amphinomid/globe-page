@@ -25,3 +25,11 @@ p {
   font-size: 0.97em;
 }
 
+.grid {
+}
+
+.griditem {
+  padding: 5px;
+  max-width: 300px;
+}
+
