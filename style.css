@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.Content-outer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: min(75px, 10vh);
+}
+
+.Content-inner {
+  width: 90vw;
+  max-width: 900px;
+}
+
+h1 {
+  font-size: 1.2em;
+}
+
+p {
+  font-size: 0.97em;
+}
+
